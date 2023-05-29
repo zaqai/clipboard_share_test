@@ -1,4 +1,4 @@
-module demo1
+module clipboard_share
 
 go 1.20
 
